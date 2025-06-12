@@ -12,4 +12,4 @@ This repository contains my deliverables for the Standard Bank SME simulation on
 - Microsoft Excel, Word, PowerPoint
 - Financial ratio analysis
 - Business case writing
-- Power BI (for visual reporting)
+  
